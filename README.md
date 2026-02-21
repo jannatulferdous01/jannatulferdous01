@@ -49,8 +49,8 @@
 
 ### 🔥 My GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jannatulferdous01&show_icons=true&cache_seconds=3600" />
-  <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jannatulferdous01&theme=radical"/> -->
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jannatulferdous01&show_icons=true&cache_seconds=3600" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jannatulferdous01&theme=radical"/>
 </p>
 
 ---

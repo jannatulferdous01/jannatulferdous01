@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  💻 CSE Student | 🧠 Passionate about Data Analytics & Software Testing | Open for full time Collaborations 🫱🏻‍🫲🏻
+  💻 CSE Student | 🧠 Passionate about Software Testing & Business Analytics | Open for full time Collaborations 🫱🏻‍🫲🏻
 </p>
 
 ---

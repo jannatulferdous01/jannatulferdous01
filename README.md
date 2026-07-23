@@ -1,72 +1,162 @@
-
-<h1 align="center">Hi there, I'm Jannatul 👋</h1>
-
----
-
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Let's+Build+Something+new+%F0%9F%A5%B3;Passionate+Software+Test+Engineer;Exploring+Business+Analytics;Experienced+in+MIS+Operations" alt="Typing SVG" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Hi%20There,%20I'm%20Jannatul%20Ferdous&fontSize=34&fontColor=0d1117&animation=twinkling&desc=QA%20Associate%20%26%20MIS%20Support&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=170&lines=Results-Driven+SQA+Engineer;Manual+%26+Automated+Testing+Specialist;API+Testing+with+Postman+%26+Playwright;Agile+%2F+Scrum+QA+Practitioner;Building+Reliable+Software&color=7DD3FC" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Full--time-7dd3fc?style=for-the-badge&labelColor=0d1117" alt="Open to Work"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=jannatulferdous01&style=flat-square&color=7dd3fc&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/jannatulferdous01?style=flat-square&color=7dd3fc&label=Followers&labelColor=0d1117" alt="Followers"/>
+
 </div>
 
 ---
 
-<p align="center">
-  💻 CSE Student | 🧠 Passionate about Software Testing & Business Analytics | Open for full time Collaborations 🫱🏻‍🫲🏻
-</p>
+## 🧠 Who I Am
+
+```typescript
+const profile = {
+  role: "QA Associate & MIS Support",
+  education: "BSc in Computer Science & Engineering, United International University (CGPA: 3.83)",
+  stack: ["Python", "Playwright", "Selenium", "Postman", "Jira", "SQL", "Apache JMeter", "Locust"],
+  experience: [
+    "QA Associate & MIS Support — Ministry of Women & Children Affairs (Jan 2026 – Present)",
+    "Software Quality Assurance Intern — Edusoft Consultant Ltd. (Aug – Dec 2025)",
+    "Software Quality Assurance Intern — GAO Tek Inc. (Jan – Apr 2025)",
+    "Research Assistant — United International University (Jul 2025 – Present)"
+  ],
+  launchedProjects: ["AdoSupport", "Chately", "CareSerenity"],
+  certifications: [
+    "Introduction to Software Quality Assurance — Coursera, Broad Infinity (2026)",
+    "Software Testing & Quality Assurance — CDIP, UIU (2025)"
+  ],
+  currentFocus: "End-to-end test automation & quality assurance for full-stack web platforms",
+  openTo: "Internships & Full-time Opportunities"
+}
+```
 
 ---
 
-### 🌟 About Me
-- 🎓 CSE student with a passion for building real-world software solutions
-- 🧠 Interested in **Data Analytics**, and **Software Testing**
-- 💬 Ask me about: Python, Django, PostgreSQL, Tableau, Automated Testing
-- 🚀 Currently working on: AdoSupport – an adolescent health support platform
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jannatulferdous01&style=flat-square&color=blue" alt="Profile views" />
-</p>
+## 🚀 Featured Projects
+
+### 🩺 AdoSupport
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=jannatulferdous01&repo=AdoSupport&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="AdoSupport"/>
+
+A full-stack digital platform serving adolescents with AI-powered chatbot assistance, community interaction, and e-commerce functionality. Designed and executed a comprehensive testing strategy covering unit, integration, API, performance, and security testing across authentication, community, chatbot, and e-commerce modules — including 55+ REST endpoints tested via Postman (90%+ pass rate), Locust load testing up to 500 concurrent users (98.4% success), 84 security test cases (SQLi, XSS, CSRF, access control — all passed), and 90.3% unit test coverage across 145 test cases using Django's testing framework.
+
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| API Testing | Postman, REST Framework |
+| Load Testing | Locust |
+| Debugging | Chrome DevTools |
+
+🔗 [Source Code](https://github.com/jannatulferdous01/AdoSupport)
 
 ---
 
-<h1 align="center"> 🛠️ Tech Stack </h1>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" style="margin: 30px;"/> 
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="40" height="40" alt="Playwright" style="margin: 30px;" />       
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 30px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" style="margin: 30px;" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" style="margin: 30px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" style="margin: 30px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" style="margin: 30px;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman" style="margin: 30px;" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" style="margin: 30px;"/>
-  &nbsp;&nbsp;&nbsp;
-</p>
+### 💬 Chately
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=jannatulferdous01&repo=chatly_testing&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="chatly_testing"/>
+
+Chately is a cloud-based AI chatbot platform powered by Claude AI that lets businesses create, customize, and embed intelligent chatbots without any coding. Built end-to-end test suites with Playwright + TypeScript covering auth flows, chatbot features, chat widget, and analytics across Chromium, Firefox, and WebKit; designed API tests using Playwright network interception with visual regression via snapshot comparison; performed performance testing with Lighthouse and PageSpeed Insights tracking Core Web Vitals and chatbot latency; set up GitHub Actions CI/CD for daily automated regression.
+
+| Layer | Technology |
+|---|---|
+| Automation | Playwright, TypeScript |
+| Performance | Lighthouse, PageSpeed Insights |
+| CI/CD | GitHub Actions |
+| Debugging | Chrome DevTools |
+
+🔗 [Source Code](https://github.com/jannatulferdous01/chatly_testing)
 
 ---
 
-### 🔥 My GitHub Stats
-<p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jannatulferdous01&show_icons=true&cache_seconds=3600" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jannatulferdous01&theme=radical"/>
-</p>
+### 🏠 CareSerenity
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sowrin-paul&repo=CareSerenity&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="CareSerenity"/>
+
+A full-stack web platform connecting orphanages with adoptive parents, donors, and volunteers, enabling streamlined adoption workflows, donation management, and community engagement through a role-based system. Built and executed end-to-end automated and manual tests using Playwright + TypeScript covering authentication, adoption workflows, donations, and RBAC across multiple browsers; developed API and integration tests validating request/response contracts and transaction integrity; performed performance, security, and regression testing using Lighthouse and DevTools.
+
+| Layer | Technology |
+|---|---|
+| Automation | Playwright, TypeScript |
+| Performance | Lighthouse |
+| API Testing | REST API Testing |
+| Debugging | Chrome DevTools |
+
+🔗 [Source Code](https://github.com/sowrin-paul/CareSerenity) *(shared/team repository)*
 
 ---
 
-### 🧩 Projects I’m Proud Of
-- 💡 [**AdoSupport**](https://github.com/sowrin-paul/Adol_web) – Adolescence guidance & health platform
-- 🛠️ [Orphanage Management System - CareSerenity](https://github.com/sowrin-paul/CareSerenity)
+## 🛠️ Testing Toolkit
+
+**Automation & Testing**
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest"/>
+<img src="https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="Apache JMeter"/>
+<img src="https://img.shields.io/badge/Locust-000000?style=for-the-badge&logoColor=white" alt="Locust"/>
+
+**API & Tracking Tools**
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+
+**Languages & Data**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+**Version Control & CI/CD**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
 ---
 
-### 📫 Let’s Connect
-<p>
-  <a href="mailto:jannatulkakon107@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jannatul-ferdous-26b97433b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://jannatulferdous.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=jannatulferdous01&show_icons=true&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&bg_color=0d1117&border_color=7dd3fc" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jannatulferdous01&layout=compact&theme=dark&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117&border_color=7dd3fc" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jannatulferdous01&theme=dark&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&border=7dd3fc" alt="Streak Stats"/>
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=jannatulferdous01&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophy"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jannatulferdous01&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&bg_color=0d1117" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:jannatulkakon107@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/jannatul-ferdous-26b97433b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://jannatulferdous01.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Hi%20There,%20I'm%20Jannatul%20Ferdous&fontSize=34&fontColor=0d1117&animation=twinkling&desc=QA%20Associate%20%26%20MIS%20Support&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=280&section=header&text=Hi%20There,%20I'm%20Jannatul%20Ferdous&fontSize=38&fontColor=0d1117&animation=twinkling&desc=QA%20Enthusiast&descAlignY=70&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=170&lines=Results-Driven+SQA+Engineer;Manual+%26+Automated+Testing+Specialist;API+Testing+with+Postman+%26+Playwright;Agile+%2F+Scrum+QA+Practitioner;Building+Reliable+Software&color=7DD3FC" alt="Typing SVG" />

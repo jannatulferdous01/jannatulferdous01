@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Work%20%26%20Full--time-7dd3fc?style=for-the-badge&labelColor=0d1117" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Open%20to-Work%20Full--time-7dd3fc?style=for-the-badge&labelColor=0d1117" alt="Open to Work"/>
 
 <br/><br/>
 
